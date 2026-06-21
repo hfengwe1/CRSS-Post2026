@@ -12,6 +12,11 @@ Each `.mdl` file represents a specific alternative:
 
 The policy rules and operating logic for each alternative are embedded within the corresponding RiverWare model file. No separate policy files are provided.
 
+## Synthetic Traces
+
+The repository also contains a compressed archive of synthetic hydrology traces used in the CRSS post-2026 alternative evaluations.
+
+## Figures
 
 FullOrganizedPlots_R1.ipynb contains python scripts for organizing results, including remaming, combining outputs from the alternatives, and monthly-to-annual data conversion. 
 FinalFigure_Conserve_r1.ipynb is the python script for generating figures.
