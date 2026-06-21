@@ -18,5 +18,8 @@ The repository also contains a compressed archive of synthetic hydrology traces 
 
 ## Figures
 
-FullOrganizedPlots_R1.ipynb contains python scripts for organizing results, including remaming, combining outputs from the alternatives, and monthly-to-annual data conversion. 
-FinalFigure_Conserve_r1.ipynb is the python script for generating figures.
+The repository includes Python notebooks used to process model outputs and generate figures.
+
+- `FullOrganizedPlots_R1.ipynb` – Processes and organizes simulation results, including renaming variables, combining outputs from multiple alternatives, and converting monthly data to annual values.
+
+- `FinalFigure_Conserve_r1.ipynb` – Generates the figures and visualizations used for the analysis and comparison of post-2026 operational alternatives.
